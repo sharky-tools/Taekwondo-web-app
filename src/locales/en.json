@@ -1,0 +1,164 @@
+{
+    "common": {
+        "callUs": "Call Us ",
+        "phoneNumber": "0672977373",
+        "freeTrial": "Free Trial",
+        "startFreeTrial": "Start Free Trial",
+        "currentLanguage": "Current language"
+    },
+    "navigation": {
+        "home": "Home",
+        "about": "About Us",
+        "programs": "Programs",
+        "schedule": "Class Schedule",
+        "instructors": "Instructors",
+        "contact": "Contact"
+    },
+    "programs-h": {
+        "kids": "Kids Classes (4-7)",
+        "youth": "Youth Classes (8-12)",
+        "teens": "Teen Classes (13-17)",
+        "adults": "Adult Classes",
+        "competition": "Competition Team"
+    },
+    "languages": {
+        "en": "English",
+        "fr": "French",
+        "ar": "Arabic"
+    },
+    "herosection": {
+        "heroTitle": "Discover Your Inner Strength Through Taekwondo",
+        "heroSubtitle": "Master physical skills, mental discipline, and build confidence for all ages and skill levels.",
+        "exploreClasses": "Explore Classes",
+        "viewSchedule": "View Schedule"
+    },
+    "schedule": {
+        "title": "Weekly Class Schedule",
+        "subtitle": "Choose the perfect class time for your age group",
+        "programs": "Program Types",
+        "time": "Time",
+        "ages": "Ages",
+        "note": "All classes are 60 minutes long. Please arrive 10 minutes early.",
+        "days": {
+            "monday": "Monday",
+            "tuesday": "Tuesday",
+            "wednesday": "Wednesday",
+            "thursday": "Thursday",
+            "friday": "Friday",
+            "saturday": "Saturday",
+            "sunday": "Sunday"
+        },
+        "programTypes": {
+            "kids4to8": "Kids 4-8 Years",
+            "kids9to11": "Kids 9-11 Years",
+            "kids11to13": "Kids 11-13 Years",
+            "kids6to12": "Kids 6-12 Years",
+            "youthAdults": "Youth & Adults"
+        }
+    },
+    "whoWeAre": {
+        "badge": "About Us",
+        "title": "Al-Wifaq Taekwondo Club Association",
+        "subtitle": "Empowering champions through discipline, respect, and excellence in martial arts training",
+        "imageAlt": "Al-Wifaq Taekwondo Academy Training",
+        "mission": {
+            "title": "Our Mission & Vision",
+            "description": "At Al-Wifaq Taekwondo Club Association in Dakhla, we are dedicated to fostering physical fitness, mental discipline, and moral character through the ancient art of Taekwondo.",
+            "details": "We believe in creating a supportive environment where students of all ages can develop confidence, self-defense skills, and lifelong friendships while learning the traditional values of martial arts."
+        },
+        "joinUs": "Join Our Family",
+        "stats": {
+            "students": "Active Students",
+            "years": "Years of Excellence",
+            "medals": "Competition Medals",
+            "satisfaction": "Student Satisfaction"
+        },
+        "values": {
+            "title": "Our Core Values",
+            "subtitle": "The principles that guide our training and shape our champions",
+            "discipline": {
+                "title": "Discipline",
+                "description": "Building self-control, focus, and dedication through consistent training and practice"
+            },
+            "respect": {
+                "title": "Respect",
+                "description": "Honoring our instructors, fellow students, and the martial arts tradition"
+            },
+            "excellence": {
+                "title": "Excellence",
+                "description": "Striving for continuous improvement in technique, character, and sportsmanship"
+            },
+            "perseverance": {
+                "title": "Perseverance",
+                "description": "Overcoming challenges and never giving up on our goals and dreams"
+            }
+        }
+    },
+    "coach": {
+        "title": "Meet Your Master",
+        "subtitle": "Learn from a world-class Taekwondo master with decades of experience and countless achievements in martial arts excellence.",
+        "name": "Master Kim Jong-Su",
+        "title_main": "9th Dan Black Belt",
+        "title_secondary": "World Champion",
+        "description": "With over 15 years of dedicated teaching and competitive experience, Master Kim brings unparalleled expertise to our academy. Having trained Olympic athletes and won numerous international championships, he combines traditional Taekwondo techniques with modern training methodologies to help students achieve their full potential.",
+        "rating": "Student Rating",
+        "stats": {
+          "experience": "Years Experience",
+          "students": "Students Trained",
+          "awards": "Championships Won",
+          "rating": "Average Rating"
+        },
+        "certifications": {
+          "title": "Certifications & Achievements",
+          "cert1": "World Taekwondo Federation Certified",
+          "cert2": "Olympic Team Coach License",
+          "cert3": "International Referee Certificate",
+          "cert4": "Youth Development Specialist",
+          "cert5": "Sports Psychology Certification",
+          "cert6": "First Aid & CPR Certified"
+        },
+        "cta_button": "Book Private Training"
+      },
+      "programs": {
+        "title": "Our Programs",
+        "kids_4_8": {
+          "name": "Kids 4-8 Years",
+          "description": "Fun and engaging introduction to Taekwondo for young children, focusing on basic movements, coordination, and discipline."
+        },
+        "kids_9_11": {
+          "name": "Kids 9-11 Years", 
+          "description": "Building on fundamentals with more structured training, belt progression, and character development for pre-teens."
+        },
+        "kids_11_13": {
+          "name": "Kids 11-13 Years",
+          "description": "Advanced training for teenagers with focus on technique refinement, sparring basics, and leadership skills."
+        },
+        "kids_6_12": {
+          "name": "Kids 6-12 Years",
+          "description": "Comprehensive program covering all aspects of Taekwondo training suitable for elementary school age children."
+        },
+        "youth_adults": {
+          "name": "Youth & Adults",
+          "description": "Complete Taekwondo training for teenagers and adults, including self-defense, fitness, and competitive preparation."
+        }
+      },
+      "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Explore moments from our training sessions, competitions, and special events",
+    "filters": {
+      "all": "All",
+      "training": "Training",
+      "competitions": "Competitions",
+      "events": "Events"
+    },
+    "categories": {
+      "training": "Training",
+      "competitions": "Competition",
+      "events": "Event"
+    },
+    "empty": {
+      "title": "No Images Found",
+      "subtitle": "Try selecting a different category to view more photos"
+    }
+  }
+}

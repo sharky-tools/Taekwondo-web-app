@@ -1,0 +1,35 @@
+{
+    "common": {
+        "callUs": "Appelez-nous",
+        "phoneNumber": "0672977373",
+        "freeTrial": "Essai Gratuit",
+        "startFreeTrial": "Commencer l'essai gratuit",
+        "currentLanguage": "Langue actuelle"
+    },
+    "navigation": {
+        "home": "Accueil",
+        "about": "À Propos",
+        "programs": "Programmes",
+        "schedule": "Horaires",
+        "instructors": "Instructeurs",
+        "contact": "Contact"
+    },
+    "programs": {
+        "kids": "Cours Enfants (4-7)",
+        "youth": "Cours Jeunes (8-12)",
+        "teens": "Cours Ados (13-17)",
+        "adults": "Cours Adultes",
+        "competition": "Équipe Compétition"
+    },
+    "languages": {
+        "en": "Anglais",
+        "fr": "Français",
+        "ar": "Arabe"
+    },
+    "herosection": {
+      "heroTitle": "Découvrez votre force intérieure grâce au Taekwondo",
+      "heroSubtitle": "Maîtrisez les compétences physiques, la discipline mentale, et gagnez en confiance à tout âge et niveau.",
+      "exploreClasses": "Explorer les cours",
+      "viewSchedule": "Voir les horaires"
+    }
+}
