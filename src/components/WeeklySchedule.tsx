@@ -224,7 +224,7 @@ const WeeklySchedule: React.FC = () => {
     return sessions.filter(session => {
       const startHour = parseInt(session.startTime.split(':')[0]);
       const startMinute = parseInt(session.startTime.split(':')[1]);
-      const endHour = parseInt(session.endTime.split(':')[0]);
+      // const endHour = parseInt(session.endTime.split(':')[0]);
       
       // If session starts at :30, it should appear in the next hour slot
       // If session starts at :00, it should appear in the current hour slot
@@ -289,7 +289,7 @@ const WeeklySchedule: React.FC = () => {
 
           {/* Time Grid */}
           <div className="divide-y divide-gray-200">
-            {timeSlots.map((timeSlot, timeIndex) => (
+            {timeSlots.map((timeSlot) => (
               <div key={timeSlot} className="grid grid-cols-8 min-h-20">
                 
                 {/* Time Column */}

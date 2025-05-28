@@ -1,6 +1,6 @@
 // src/components/HeroSection.tsx
 import React, { useEffect, useState } from 'react';
-import { ChevronRight, Play, Star } from 'lucide-react';
+import { ChevronRight, Play } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
 
 interface HeroSectionProps {

@@ -80,8 +80,18 @@ const Coach: React.FC = () => {
                   </div>
                 </div>
               </div>
+            {/* CTA Button */}
+            <div className="pt-4">
+              <button className="group bg-gradient-to-r from-red-600 to-orange-500 hover:from-red-700 hover:to-orange-600 text-white font-bold py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 hover:scale-105">
+                <span className={`flex items-center ${isRTL ? 'space-x-reverse space-x-3' : 'space-x-3'}`}>
+                  <span>{t('coach.cta_button')}</span>
+                  <ChevronRight className={`w-5 h-5 group-hover:${isRTL ? '-translate-x-1' : 'translate-x-1'} transition-transform duration-300`} />
+                </span>
+              </button>
+            </div>
             </div>
           </div>
+          
 
           {/* Coach Info */}
           <div
@@ -98,9 +108,9 @@ const Coach: React.FC = () => {
                 <span className="px-4 py-2 bg-gradient-to-r from-red-500 to-orange-500 text-white rounded-full text-sm font-semibold">
                   {t('coach.title_main')}
                 </span>
-                <span className="px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-full text-sm font-semibold">
+                {/* <span className="px-4 py-2 bg-gradient-to-r from-blue-500 to-purple-500 text-white rounded-full text-sm font-semibold">
                   {t('coach.title_secondary')}
-                </span>
+                </span> */}
               </div>
             </div>
 
@@ -160,15 +170,7 @@ const Coach: React.FC = () => {
               </div>
             </div>
 
-            {/* CTA Button */}
-            <div className="pt-4">
-              <button className="group bg-gradient-to-r from-red-600 to-orange-500 hover:from-red-700 hover:to-orange-600 text-white font-bold py-3 px-6 rounded-xl shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1 hover:scale-105">
-                <span className={`flex items-center ${isRTL ? 'space-x-reverse space-x-3' : 'space-x-3'}`}>
-                  <span>{t('coach.cta_button')}</span>
-                  <ChevronRight className={`w-5 h-5 group-hover:${isRTL ? '-translate-x-1' : 'translate-x-1'} transition-transform duration-300`} />
-                </span>
-              </button>
-            </div>
+            
           </div>
         </div>
       </div>
